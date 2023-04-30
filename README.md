@@ -11,14 +11,14 @@
   <h3 align="center"> ThreeJS - a powerful 3D graphics library for rendering and animating the 3D model</h3>
 
   <p align="center">
-    <a href="https://github.com/erick-hz/"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/erick-hz/project_threejs_ai/tree/devo"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/erick-hz/">View Demo</a>
+    <a href="https://github.com/erick-hz/project_threejs_ai/tree/devo">View Demo</a>
     ·
-    <a href="https://github.com/erick-hz/">Report Bug</a>
+    <a href="https://github.com/erick-hz/project_threejs_ai/issues">Report Bug</a>
     ·
-    <a href="https://github.com/erick-hz/">Request Feature</a>
+    <a href="https://github.com/erick-hz/project_threejs_ai/pulls">Request Feature</a>
   </p>
 </div>
 
