@@ -47,7 +47,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+<div align="center">
 ![3D Website](https://i.ibb.co/Krk39Cf/Thumbnali.png)
+</div>
 
 ThreeJS 3D product website and infuse it with the power of artificial intelligence! 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
