@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/erick-hz/">
-    <img src="client/src/assets/logo.jpg" alt="Logo" width="120" height="120">
+    <img src="client/src/assets/logo.jpg" alt="Logo" width="150" height="100">
   </a>
 
   <h3 align="center"> ThreeJS - a powerful 3D graphics library for rendering and animating the 3D model</h3>
